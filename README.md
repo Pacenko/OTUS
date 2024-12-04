@@ -1,2 +1,1 @@
-# OTUS
-Curs de invatare
+#OTUS
